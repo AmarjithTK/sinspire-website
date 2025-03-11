@@ -38,7 +38,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
         <!-- Font Awesome -->
         <link rel="stylesheet" href="assets/plugins/fontawesome-6.1.1/css/all.css">
-        <title>S Inspire</title>
+        <title>Adishesha Institute of Education and Research</title>
         
         <style>
             /* Modernized pill divider with blue and accent orange */
